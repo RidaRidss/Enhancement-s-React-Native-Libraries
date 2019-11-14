@@ -15,3 +15,18 @@ DocumentPicker.types.doc,
 DocumentPicker.types.docx,
 DocumentPicker.types.xls,
 DocumentPicker.types.xlsx
+
+# 2. React Native Gifted Chat 
+
+#### already available
+
+text message
+image message
+video message
+
+#### more Addition
+
+location message
+phone calendar invite message
+document message
+contact share message
