@@ -6,12 +6,12 @@ by Rida Sarwar Bilgrami https://link.medium.com/gZDltfKLB1
 
 #### already available
 
-DocumentPicker.types.plainText,
-DocumentPicker.types.pdf
+~ DocumentPicker.types.plainText,
+~ DocumentPicker.types.pdf
 
 #### more Addition
 
-DocumentPicker.types.doc,
-DocumentPicker.types.docx,
-DocumentPicker.types.xls,
-DocumentPicker.types.xlsx
+~ DocumentPicker.types.doc,
+~ DocumentPicker.types.docx,
+~ DocumentPicker.types.xls,
+~ DocumentPicker.types.xlsx
