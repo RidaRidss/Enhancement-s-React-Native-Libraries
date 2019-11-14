@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "react-native-document-picker": "https://github.com/RidaRidss/react-native-document-picker.git"
+  },
+  "keywords": [
+    "react-native",
+    "libraries",
+    "enhancements"
+  ],
+  "author": "Rida Sarwar Bilgrami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RidaRidss/Enhancement-s-React-Native-Libraries/issues"
+  },
+  "homepage": "https://github.com/RidaRidss/Enhancement-s-React-Native-Libraries#readme"
+}
